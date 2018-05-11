@@ -72,5 +72,5 @@ LIST_2_NAME_VAR=list2.txt
 OUTPUT_LIST_VAR=output.txt
 ```
 
-# Conclusion
+# Other notes
 Some work should be done to make the code more generic, as well as minor fixes here and there.
