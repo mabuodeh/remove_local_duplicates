@@ -1,0 +1,5 @@
+env_var.sh
+.DS_Store
+docs/
+list_documents.sql
+gen_files.command
